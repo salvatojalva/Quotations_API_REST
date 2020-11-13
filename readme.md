@@ -1,6 +1,6 @@
-# Search media
+# Quotations API Rest
 
-This api search media (music, movies, series) by name
+This API stores informations about quotations
 
 ## Installation
 
